@@ -3,6 +3,13 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+# PyCharm local config
+./idea
+
+# Database
+./library/db.sqlite3
+
 # C extensions
 *.so
 
